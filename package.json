@@ -1,0 +1,16 @@
+{
+	"name": "whatsapp-bot",
+	"version": "1.0.0",
+	"description": "A simple bot for WhatsApp",
+	"main": "index.js",
+	"dependencies": {
+		"mime-types": "^2.1.35",
+		"qrcode-terminal": "^0.12.0",
+		"whatsapp-web.js": "^1.23.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "pablonortiz",
+	"license": "ISC"
+}
